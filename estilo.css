@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(216, 216, 216);
+}
+
+h1 {
+    color: white;
+    background-color: royalblue;
+    position: relative;
+    top: -45px;
+    left: -8px;
+    font-size: 65px;
+}
+
+h2.escritorio {
+    color: white;
+    background-color: royalblue;
+    text-align: center;
+    position: relative;
+    left:  -70px;
+    width: 800px;
+    top: -25px;
+    font-size: 65px;
+}
+
+section.escritorio {
+    position: absolute;
+    top: 6rem;
+    left: 340px;
+    width: 50%;
+}
+
+h3 {
+    border-radius: 20px;
+    background-color: green;
+    color: white;
+}
+
+p {
+    background-color: white;
+    border-radius: 20px;
+}
+
+h2.internet {
+    color: white;
+    background-color: royalblue;
+    text-align: center;
+    position: relative;
+    left:  -70px;
+    width: 800px;
+    top: -25px;
+    font-size: 65px;
+}
+
+section.internet {
+    position: absolute;
+    bottom: -75rem;
+    left: 340px;
+    width: 50%;
+}
